@@ -1,10 +1,11 @@
+# OOP in Python  
 
+This repository contains examples and exercises to learn **Object-Oriented Programming (OOP)** in Python.  
 
-Este repositorio contiene un conjunto de ejemplos y ejercicios prácticos para aprender y aplicar los principios de la Programación Orientada a Objetos (OOP) utilizando el lenguaje de programación Python.
-Contenido:
+## Contents  
 
-- **Clases y Objetos**: Definición de clases y creación de objetos.
-- **Herencia**: Cómo las clases pueden heredar propiedades y métodos de otras.
-- **Polimorfismo**: Implementación de métodos que pueden tomar diferentes formas.
-- **Encapsulamiento**: Control de acceso a los atributos y métodos de una clase.
-- **Abstracción**: Creación de clases abstractas y métodos abstractos.
+- **Classes and Objects** – Defining classes and creating objects.  
+- **Inheritance** – How classes inherit properties and methods.  
+- **Polymorphism** – Using methods in different ways.  
+- **Encapsulation** – Controlling access to attributes and methods.  
+- **Abstraction** – Working with abstract classes and methods.  
